@@ -1,0 +1,8 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos
+ como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+1-prototype
+coda objeto que creamos tienen sus propias propiedades que a su vez tiene definido un proto
+2-Constructors (de Clases)
+es una funcion que se llama constructor que sirve para construir objetos
